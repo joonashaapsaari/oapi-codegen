@@ -8,7 +8,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/deepmap/oapi-codegen/pkg/runtime"
+	"github.com/joonashaapsaari/oapi-codegen/pkg/runtime"
 	"io"
 	"io/ioutil"
 	"net/http"

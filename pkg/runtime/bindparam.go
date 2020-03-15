@@ -25,7 +25,7 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 
-	"github.com/deepmap/oapi-codegen/pkg/types"
+	"github.com/joonashaapsaari/oapi-codegen/pkg/types"
 )
 
 // This function binds a parameter as described in the Path Parameters
